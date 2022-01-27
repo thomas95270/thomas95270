@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomas95270
+- 👋 Hi, I’m Thomas VANDEN MAAGDENBERG
 - 👀 I’m interested in digital technologies, educational, archaeology, judo... 
 - 🌱 I’m currently learning Web developpement
 - 💞️ I’m looking to collaborate on educative games
